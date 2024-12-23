@@ -1,0 +1,8 @@
+---
+title: DAG structure
+linkTitle: DAG structure
+---
+
+{{% pageinfo %}}
+This is **BURST**'s **living whitepaper**. This page contains the information concerning BURST and its **progress**, **vision** and **features**.
+{{% /pageinfo %}}
