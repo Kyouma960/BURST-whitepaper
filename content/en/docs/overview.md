@@ -1,48 +1,44 @@
 ---
 title: Overview
-description: Here's where your user finds out if your project is for them.
+description: Why should I care about **BURST** at all?
 weight: 1
 ---
 
 {{% pageinfo %}}
 
-This is a placeholder page that shows you how to use this template site.
+**BURST** holds the vision of a better future for everyone, free from the **mass-poverty** of a Post-AI world.
 
 {{% /pageinfo %}}
 
-The Overview is where your users find out about your project. Depending on the
-size of your docset, you can have a separate overview page (like this one) or
-put your overview contents in the Documentation landing page (like in the Docsy
-User Guide).
+The world we live in today is failing many of us. The system is set up in a way that makes the rich get richer, while the rest of us get left behind. It's an economic model built on hoarding and centralization, and it's broken.
 
-Try answering these questions for your user in this page:
+The idea that money reflects fair compensation for the value we give to society is a myth—especially when it’s controlled by a few elites. We’re heading into a future where jobs will disappear because of AI and automation. More people will be unemployable, and the resources they need to survive will be out of reach.
 
-## What is it?
+That’s not fair, right? So, what do we do? Keep struggling with an unfair system, or find a better way? Here’s the thing: we **can** change the system. And that’s where **BURST** comes in.
 
-Introduce your project, including what it does or lets you do, why you would use
-it, and its primary goal (and how it achieves it). This should be similar to
-your README description, though you can go into a little more detail here if you
-want.
 
-## Why do I want it?
+## **What Makes BURST Different?** 
 
-Help your user know if your project will help them. Useful information can
-include:
+### 1. **Fair Distribution of Resources:** 
+BURST is not about letting a few people control everything. It’s about **democratizing wealth** and giving everyone a fair share. Instead of depending on centralized authorities or arbitrary rules, BURST uses **periodic distribution of BRN points**—tokens that represent your fair share. Everyone gets a slice. No one is left out. 
 
-- **What is it good for?**: What types of problems does your project solve? What
-  are the benefits of using it?
+### 2. **No More Wage Slavery:**
+In a world where automation takes over, people won’t be able to work the way they used to. That doesn’t mean they should starve or suffer. BURST ensures that **even the unemployable** still get access to resources. And it’s not just a handout—this system lets you **have control** over your wealth, and it’s not dependent on anyone deciding who gets what. The criteria are set by **you**, through a democratic consensus. 
 
-- **What is it not good for?**: For example, point out situations that might
-  intuitively seem suited for your project, but aren't for some reason. Also
-  mention known limitations, scaling issues, or anything else that might let
-  your users know if the project is not for them.
+### 3. **Decentralized and Fair:**
+Unlike the current system, BURST isn’t controlled by any single entity or group. **Everything is decentralized**. The system uses a **self-amending, consensus-based model**, meaning the rules can evolve as society changes. There’s no central authority making decisions for you—it’s about the collective power of the people. 
 
-- **What is it _not yet_ good for?**: Highlight any useful features that are
-  coming soon.
+### 4. **No Greed, No Hoarding:** 
+We’ve all seen how wealth gets hoarded by the few. In the BURST system, you can’t just sit on your BRN points. They get **burned** instead of accumulated. This prevents anyone from hoarding resources, ensuring that wealth is used for **actual consumption and production**, not just sitting in a vault. 
 
-## Where should I go next?
+### 5. **Eco-Friendly and Sustainable:** 
+BURST isn’t just a financial model—it’s designed to be **eco-friendly** too. With a **feeless DAG structure**, it doesn’t rely on energy-draining mining processes like other cryptocurrencies. So, we’re not just fixing the economy—we’re making sure it’s **sustainable** for the long term. 
 
-Give your users next steps from the Overview. For example:
+### 6. **Control the Means of Production:** 
+The biggest issue with the current system is that the **means of production**—the things that create real value—are controlled by a small elite. BURST wants to flip that. **Public control** over production means that the economy is directed toward what benefits society, not a few corporations making profits off your labor. 
 
-- [Getting Started](/docs/getting-started/): Get started with $project
-- [Examples](/docs/examples/): Check out some example code!
+### 7. **A Fairer Future:**
+BURST isn’t just about today—it’s about making sure that **everyone**, including future generations, can live well in a world that’s changing fast. With AI, automation, and environmental crises looming, we need a system that can adapt, evolve, and ensure fairness for all. 
+
+## **Why BURST?** 
+Because we’re tired of watching the rich get richer while we fight for scraps. Because we need a system that values **everyone’s contributions**, not just the ones who already have power. Because in a post-AI world, people shouldn’t be left to suffer just because they can’t find a job. BURST is a **revolutionary economic system** that gives power back to the people. It’s about fairness, sustainability, and true freedom. So why not embrace a future where **everyone has a fair share** and can thrive together? Let’s build that future with BURST. 
