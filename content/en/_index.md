@@ -40,7 +40,7 @@ contributions workflow on **GitHub**. New contributions are always welcome!
 {{% /blocks/feature %}}
 
 {{% blocks/feature icon="fab fa-twitter" title="Follow us on Twitter!"
-    url="https://twitter.com/burst_token" %}}
+    url="https://twitter.com/BurstToken" %}}
 For announcement of latest features etc.
 {{% /blocks/feature %}}
 
